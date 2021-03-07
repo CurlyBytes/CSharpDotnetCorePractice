@@ -1,0 +1,2 @@
+# CSharpDotnetCorePractice
+My learning path
